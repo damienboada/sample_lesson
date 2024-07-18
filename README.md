@@ -1,4 +1,4 @@
-# Lesson Plan Template
+# Variables and operators
 This file serves as the primary lesson plan document for the repository.
 
 ## Template Description
